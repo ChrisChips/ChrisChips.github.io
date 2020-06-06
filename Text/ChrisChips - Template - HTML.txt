@@ -1,0 +1,108 @@
+<!--      EASTER EGG!!!      
+             ______
+            /      \
+           / (_)    \
+          /      (_) \
+         /            \
+        /   (_)   (_)  \
+       |)               |
+       |      (_)     (_|
+       | (_)            |
+       |        (_)     |
+        \(_)        (_)/
+         \____________/
+
+
+    Hey, good job finding this!
+            ~(:D)
+
+           Fun Fact:
+          [Fun Fact]
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ChrisChips - [Name]</title>
+    <link rel="shortcut icon" type="image/png" href="/FEB6gyoQhFr4zWBjevBwpXNcVftx8wvzjuTNnyvRUhSWETCZEQK15sm3MAAL8NA8Om_dLN_HiMTU8KMVGJ8Vei76HOvVW9Y_MMcell6qnExpbOB-YO4CNietohYaUlJ9H_N0RtLMX7UGcOAOM3hLhKrijY_7wNNBxdC94RR2eCaoUdG-d-xI4ddQXcSenIDAQ7-RCo-LTSzoAP_sMHNzXNKEJxYpYkEb7keJb2rLwV8WFMRftsehyA7MqeZDVWWIxRdfyP9c7bvnCivkoHsb6haZ3css9ve5fHeixXyWHfKvC0HlypROCsYTtyUTH-6ksVbc-m9iG4DLPSwxsSfth1sKjU227CcnH0rUVr_hIP--j7yJosaWWKPSvpvzRfOe5VDl2ABeUA6ptQDa2iEAw8XSZ7vPsF_lUhbU--Quvl_v6DYhFVuziEb1MK8EeBkyEbPOmWz7vWak7tgC0NxIcRqCDMwqAAytj5oXY0RuIGBseECiXZPJOVE5J2HFJ4i7yIPE4jAkxQA6CxmLFLdLPeWepCtut6_w9dBugkk_UcA10RfXa8NbrjwsmrfWwNrgOcnbgNdzvho50AHbi7wc23tJ0XziVpRKZIcW2BOcFlqY2MXMywOMfgMdkunugzxRX020YXvxsc1RizZBaIaB_bztMPVT8M8=s16-no"/>
+    <link rel="shortcut icon" type="image/png" href="https://lh3.googleusercontent.com/FEB6gyoQhFr4zWBjevBwpXNcVftx8wvzjuTNnyvRUhSWETCZEQK15sm3MAAL8NA8Om_dLN_HiMTU8KMVGJ8Vei76HOvVW9Y_MMcell6qnExpbOB-YO4CNietohYaUlJ9H_N0RtLMX7UGcOAOM3hLhKrijY_7wNNBxdC94RR2eCaoUdG-d-xI4ddQXcSenIDAQ7-RCo-LTSzoAP_sMHNzXNKEJxYpYkEb7keJb2rLwV8WFMRftsehyA7MqeZDVWWIxRdfyP9c7bvnCivkoHsb6haZ3css9ve5fHeixXyWHfKvC0HlypROCsYTtyUTH-6ksVbc-m9iG4DLPSwxsSfth1sKjU227CcnH0rUVr_hIP--j7yJosaWWKPSvpvzRfOe5VDl2ABeUA6ptQDa2iEAw8XSZ7vPsF_lUhbU--Quvl_v6DYhFVuziEb1MK8EeBkyEbPOmWz7vWak7tgC0NxIcRqCDMwqAAytj5oXY0RuIGBseECiXZPJOVE5J2HFJ4i7yIPE4jAkxQA6CxmLFLdLPeWepCtut6_w9dBugkk_UcA10RfXa8NbrjwsmrfWwNrgOcnbgNdzvho50AHbi7wc23tJ0XziVpRKZIcW2BOcFlqY2MXMywOMfgMdkunugzxRX020YXvxsc1RizZBaIaB_bztMPVT8M8=s16-no"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href='site.css' rel='stylesheet' type='text/css'>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <style>
+
+        .jumbotron img{
+            height: auto !important;
+            width: auto !important;
+            padding: 0px;
+            margin-bottom: 15px;
+            border: 5px solid black;
+        }
+
+    </style>
+
+<header class="container">
+        <div class="row">
+            <h3 class="col-md-4"><a href="ChrisChips - Home.html" class="text-decoration-none">ChrisChips</a></h3>
+                <nav class="navbar navbar-expand-lg navbar-light">
+                    <button class="navbar-toggler text-decoration-none" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+              
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item active">
+                                <a class="nav-link text-decoration-none" href="ChrisChips - Home.html" tabindex="1">Home <span class="sr-only">(current)</span></a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle text-decoration-none" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="2">
+                                    YouTube
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item text-decoration-none" href="ChrisChips - YouTube - Animating.html">ChrisChips Animating</a>
+                                    <a class="dropdown-item text-decoration-none" href="ChrisChips - YouTube - DIY.html">ChrisChips DIY</a>
+                                </div>
+                            </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-decoration-none" href="ChrisChips - Blog.html" tabindex="3">Blog</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-decoration-none" href="ChrisChips - About.html" tabindex="4" aria-disabled="true">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-decoration-none" href="ChrisChips - Contact.html" tabindex="5" aria-disabled="true">Contact</a>
+                        </li>
+                    </ul> 
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <section class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <img class="col-md-12 mx-auto d-block" src="[Picture]/>
+            <div class="text-center">
+                <h2>[Page Name]</h2>
+            </div>
+        </div>
+    </section>
+
+    <section class="container" id="description">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h5>[Page Description]</h5>
+            </div>
+        </div>
+    </section>
+
+    <footer class="container">
+        <p>&copy; ChrisChips 2019</p>
+    </footer>
+
+</body>
+</html>

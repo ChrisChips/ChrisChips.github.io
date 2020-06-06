@@ -1,0 +1,78 @@
+
+body {
+    background-color: #00A6ED;
+}
+
+header {
+    background-color: #00A6ED; 
+}
+
+header h3 {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+header li {
+    padding-right: 40px;
+}
+
+a {
+    color: green;
+}
+
+.jumbotron {
+    background-color: #229D0F;
+}
+
+.text-decoration-none {
+    -webkit-text-fill-color: black;
+}
+
+.btn-warning {
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+
+.post-header {
+    padding-bottom: 30px;
+}
+
+.btn-danger {
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.gallery-video {
+    margin: 10px;
+}
+
+form button {
+    margin-bottom: 20px;
+}
+
+#description {
+    padding-bottom: 50px !important;
+}
+
+#youtube {
+    padding-bottom: 5px !important;
+}
+
+#video {
+    margin-left: 90px;
+}
+
+#about {
+    margin-top: 0px;
+}
+
+#form {
+    margin-bottom: 15px;
+}
